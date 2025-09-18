@@ -1,0 +1,4 @@
+package com.example.demo.article.service;
+
+public class ArticleService {
+}
